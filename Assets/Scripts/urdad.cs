@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class urdad : MonoBehaviour
 {
@@ -11,6 +11,7 @@ public class urdad : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("พ่องตาย");
+
     }
 }
